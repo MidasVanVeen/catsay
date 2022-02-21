@@ -10,7 +10,7 @@ int main(int argc, char *argv[]) {
 	}
 	char *cat = " /\\_/\\\n( o.o )\n > ^ <";	
 	
-	strcat(result, "\n       ");
+	strcat(result, "       ");
 	strcat(result, fullmsg);
 	strcat(result, "\n      /\n");
 	strcat(result, cat);
